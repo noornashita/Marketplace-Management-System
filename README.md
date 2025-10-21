@@ -1,6 +1,6 @@
 # Marketplace-Management-System
 
-Introduction:
+📌Introduction:
 
 The Second-Hand Marketplace Management System is an online platform designed to facilitate the buying and selling of used items in a secure, organized, and user-friendly manner. In today’s digital era, second-hand trading has become increasingly popular due to its cost-effectiveness and positive environmental impact through product reuse. However, traditional second-hand markets often face issues such as lack of trust, product misrepresentation, and limited communication between buyers and sellers. This project aims to solve these challenges by developing a well-structured database-driven system that enables verified users to trade items efficiently and transparently. The platform allows sellers to post detailed product listings under specific categories, while buyers can search, negotiate, and place orders easily. Administrators ensure quality control by monitoring users, moderating listings, and maintaining overall system integrity.
 
